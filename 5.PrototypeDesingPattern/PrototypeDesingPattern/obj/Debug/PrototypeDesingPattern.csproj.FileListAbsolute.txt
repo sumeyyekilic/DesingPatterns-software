@@ -1,0 +1,7 @@
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe.config
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.exe
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\bin\Debug\PrototypeDesingPattern.pdb
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csprojAssemblyReference.cache
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.exe
+C:\Users\sumeyye\source\repos\DesingPatterns\PrototypeDesingPattern\PrototypeDesingPattern\obj\Debug\PrototypeDesingPattern.pdb
