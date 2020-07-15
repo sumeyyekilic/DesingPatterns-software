@@ -45,8 +45,7 @@ namespace FactoryDesingPattern
             Console.WriteLine("Üretilecek bisiklet, Dağ Bisikleti türüdür..!");
         }
     }
-
-
+    
     //ConcreteaProduct
     //Bir product daha üretirsek 
     public class YarisBisikleti : IBisiklet
@@ -81,9 +80,7 @@ namespace FactoryDesingPattern
     class CreatorFactory
     {
         //Burada bisiklet türüne göre uygun olan asıl ürünün (concrete product on üretimi) üretimi gerçekleştirilir
-        //FactıryMethod
-        
-
+        //FactoryMethod
         public IBisiklet BisikletFactory(BisikletModel bisikletModel)
         {
             IBisiklet bisiklet=null;

@@ -33,8 +33,7 @@ namespace BuilderDesingPattern
             Console.ReadKey();
         }
     }
-    //Director sınıf
-            //shop=bayii
+    //Bayi Director sınıf
     class Bayi
     {
         // Builder karmaşık bir dizi adım kullanıyo
@@ -60,7 +59,7 @@ namespace BuilderDesingPattern
         public abstract void BuildVites();
         public abstract void BuildMarka();
     }
-    /// The 'ConcreteBuilder1' class
+    //Dağ bisikleti 'ConcreteBuilder1' class
     class DagBuilder : BisikletBuilder
     {
         public DagBuilder()
@@ -81,7 +80,7 @@ namespace BuilderDesingPattern
         }
     }
 
-    //'ConcreteBuilder2' sınıf
+    //Yarış bisikleti 'ConcreteBuilder2' sınıf
     class YarisBuilder : BisikletBuilder
     {
         public YarisBuilder()
@@ -102,7 +101,7 @@ namespace BuilderDesingPattern
         }
 
     }
-    /// The 'ConcreteBuilder3' class
+    // Gezi bisikleti 'ConcreteBuilder3' class
     class GeziBuilder : BisikletBuilder
     {
         public GeziBuilder()
@@ -135,7 +134,7 @@ namespace BuilderDesingPattern
             //bisiklet türlerini burdan çağırmak için:
             this._bisikletTuru = bisikletTuru;
         }
-       // bisklet özelliklerini sözlükten al
+        // bisklet özelliklerini sözlükten al
         public string this[string index]
         {
             get { return _bisikletOzellik[index]; }

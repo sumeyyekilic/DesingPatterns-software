@@ -5,3 +5,10 @@ C:\Users\sumeyye\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debu
 C:\Users\sumeyye\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.csproj.CoreCompileInputs.cache
 C:\Users\sumeyye\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.exe
 C:\Users\sumeyye\source\repos\FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.pdb
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\bin\Debug\FactoryDesingPattern.exe.config
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\bin\Debug\FactoryDesingPattern.exe
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\bin\Debug\FactoryDesingPattern.pdb
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.csprojAssemblyReference.cache
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.exe
+C:\Users\sumeyye\source\repos\DesingPatterns\2.FactoryDesingPattern\FactoryDesingPattern\obj\Debug\FactoryDesingPattern.pdb
