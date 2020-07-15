@@ -1,0 +1,7 @@
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.exe.config
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.exe
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\bin\Debug\BuilderDesingPattern.pdb
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.csprojAssemblyReference.cache
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.exe
+C:\Users\sumeyye\source\repos\BuilderDesingPattern\BuilderDesingPattern\obj\Debug\BuilderDesingPattern.pdb

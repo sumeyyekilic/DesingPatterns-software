@@ -1,0 +1,7 @@
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\obj\Debug\AbstructFactoryDesingPattern.csprojAssemblyReference.cache
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\obj\Debug\AbstructFactoryDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\bin\Debug\AbstructFactoryDesingPattern.exe.config
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\bin\Debug\AbstructFactoryDesingPattern.exe
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\bin\Debug\AbstructFactoryDesingPattern.pdb
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\obj\Debug\AbstructFactoryDesingPattern.exe
+C:\Users\sumeyye\source\repos\FactoryDesingPattern\AbstructFactoryDesingPattern\obj\Debug\AbstructFactoryDesingPattern.pdb

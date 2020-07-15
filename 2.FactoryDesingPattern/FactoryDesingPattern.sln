@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesingPattern", "FactoryDesingPattern\FactoryDesingPattern.csproj", "{A7D9E0EE-E36B-459F-A3C1-D434E93A767F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstructFactoryDesingPattern", "AbstructFactoryDesingPattern\AbstructFactoryDesingPattern.csproj", "{3C201292-2C8B-49A9-B362-47DF45A2BE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D9E0EE-E36B-459F-A3C1-D434E93A767F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D9E0EE-E36B-459F-A3C1-D434E93A767F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D9E0EE-E36B-459F-A3C1-D434E93A767F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D9E0EE-E36B-459F-A3C1-D434E93A767F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C201292-2C8B-49A9-B362-47DF45A2BE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C201292-2C8B-49A9-B362-47DF45A2BE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C201292-2C8B-49A9-B362-47DF45A2BE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C201292-2C8B-49A9-B362-47DF45A2BE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00EF0ED0-5C4A-4F46-A950-9842381158BD}
+	EndGlobalSection
+EndGlobal

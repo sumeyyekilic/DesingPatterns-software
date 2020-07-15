@@ -1,0 +1,7 @@
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\bin\Debug\SingletonDesingPattern.exe.config
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\bin\Debug\SingletonDesingPattern.exe
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\bin\Debug\SingletonDesingPattern.pdb
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\obj\Debug\SingletonDesingPattern.csprojAssemblyReference.cache
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\obj\Debug\SingletonDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\obj\Debug\SingletonDesingPattern.exe
+C:\Users\sumeyye\source\repos\DesingPatternExam\SingletonDesingPattern\SingletonDesingPattern\obj\Debug\SingletonDesingPattern.pdb
