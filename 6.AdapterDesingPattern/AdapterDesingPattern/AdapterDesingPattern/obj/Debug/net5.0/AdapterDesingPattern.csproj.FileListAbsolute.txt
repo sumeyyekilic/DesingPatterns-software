@@ -1,0 +1,5 @@
+C:\Users\sumeyye\source\repos\DesingPatterns\6.AdapterDesingPattern\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\net5.0\AdapterDesingPattern.csprojAssemblyReference.cache
+C:\Users\sumeyye\source\repos\DesingPatterns\6.AdapterDesingPattern\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\net5.0\AdapterDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumeyye\source\repos\DesingPatterns\6.AdapterDesingPattern\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\net5.0\AdapterDesingPattern.AssemblyInfoInputs.cache
+C:\Users\sumeyye\source\repos\DesingPatterns\6.AdapterDesingPattern\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\net5.0\AdapterDesingPattern.AssemblyInfo.cs
+C:\Users\sumeyye\source\repos\DesingPatterns\6.AdapterDesingPattern\AdapterDesingPattern\AdapterDesingPattern\obj\Debug\net5.0\AdapterDesingPattern.csproj.CoreCompileInputs.cache
