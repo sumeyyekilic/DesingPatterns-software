@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sumeyye\\source\\repos\\DesingPatterns\\6.AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern.csproj",
+      "projectUniqueName": "C:\\Users\\sumeyye\\source\\repos\\DesingPatterns\\6.AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern.csproj",
       "projectName": "AdapterDesingPattern",
-      "projectPath": "C:\\Users\\sumeyye\\source\\repos\\DesingPatterns\\6.AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern.csproj",
+      "projectPath": "C:\\Users\\sumeyye\\source\\repos\\DesingPatterns\\6.AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern.csproj",
       "packagesPath": "C:\\Users\\sumeyye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sumeyye\\source\\repos\\DesingPatterns\\6.AdapterDesingPattern\\AdapterDesingPattern\\AdapterDesingPattern\\obj\\",
+      "outputPath": "C:\\Users\\sumeyye\\source\\repos\\DesingPatterns\\6.AdapterDesingPattern\\AdapterDesingPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
