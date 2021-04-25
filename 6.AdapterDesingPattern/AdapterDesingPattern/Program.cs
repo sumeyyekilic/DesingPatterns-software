@@ -35,7 +35,6 @@ namespace AdapterDesingPattern
         //ICacheManager'ı burada implemente ettim
         public void Remove(string key)
         {
-            //
             Console.WriteLine(" SKCache yöntemi ile, {0} ", key);
         }
 
